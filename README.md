@@ -1,0 +1,1 @@
+echo "# BS4Startup"
